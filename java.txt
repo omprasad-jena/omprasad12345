@@ -1,0 +1,4 @@
+class giet{
+  public static void main(String args[])
+  System.out.println("omprasad jena");
+}
